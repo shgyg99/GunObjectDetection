@@ -1,3 +1,8 @@
 pandas
 numpy
 setuptools
+torch
+opencv-python-headless
+torchvision
+tqdm
+tensorboard

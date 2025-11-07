@@ -1,3 +1,5 @@
 venv
 artifacts
 MLOPS_PROJECT_3.egg-info
+logs
+tensorboard_logs
